@@ -8,8 +8,11 @@ My formal background is in Forest Engineering / Forestry / Environmental Enginee
 
 Right now, I'm looking for new opportunities to apply my skills and background in the Zürich area. I look forward to working with you.
 
+Please visit my site [luispuerto.net][] if you want to know more about me. 
+
 My tags :label: are: 
 
 _\#Sustainability :recycle: #Forestry :evergreen_tree: #Agroforestry :ear_of_rice: #EnvEngineering :seedling: #EnvRisk :rescue_worker_helmet: #DataScience :telescope: #DataAnalysis :bulb: #DataViz :bar_chart: #SpatialAnalysis :round_pushpin: #Maps :world_map: #Coding :robot: #RStats :chart_with_upwards_trend: #Python :snake: #GIS :earth_africa: #RemoteSensing :artificial_satellite: #Research :microscope:_
 
 
+[luispuerto.net]: https://luispuerto.net
